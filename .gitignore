@@ -1,0 +1,5 @@
+user-permissions.yaml
+.env
+node_modules
+dist
+public/output.css
